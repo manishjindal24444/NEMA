@@ -11,7 +11,7 @@
 ## Team
 | Name                                            | Year      | Department                       |
 | ----------------------------------------------- | --------- | -------------------------------- |
-| [Maruf Hussain](https://github.com/stalker-john) | 3rd Year | Computer Science And Engineering |
+| [Manish Jindal](https://github.com/manishjindal24444/) | 3rd Year | Electrical Engineering |
 | [Neeraj Anand](https://github.com/neeraj-2) | 3rd Year | Computer Science And Engineering |
 
 
